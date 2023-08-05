@@ -1,0 +1,13 @@
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.exe
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.deps.json
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.runtimeconfig.json
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.runtimeconfig.dev.json
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.dll
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\bin\Debug\netcoreapp3.1\Dec 23 2020.pdb
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.csprojAssemblyReference.cache
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.AssemblyInfoInputs.cache
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.AssemblyInfo.cs
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.csproj.CoreCompileInputs.cache
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.dll
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.pdb
+D:\Programming\C♯\Other\Dec 23 2020\Dec 23 2020\obj\Debug\netcoreapp3.1\Dec 23 2020.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.exe
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.deps.json
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.runtimeconfig.json
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.runtimeconfig.dev.json
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.dll
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\bin\Debug\netcoreapp3.1\PrintNums0to999.pdb
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.AssemblyInfoInputs.cache
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.AssemblyInfo.cs
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.csproj.CoreCompileInputs.cache
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.dll
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.pdb
+D:\Programming\C♯\Other\PrintNums0to999\PrintNums0to999\obj\Debug\netcoreapp3.1\PrintNums0to999.genruntimeconfig.cache

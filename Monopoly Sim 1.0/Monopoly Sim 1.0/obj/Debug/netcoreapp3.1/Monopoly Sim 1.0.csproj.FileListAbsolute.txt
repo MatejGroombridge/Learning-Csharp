@@ -1,0 +1,13 @@
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.exe
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.deps.json
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.runtimeconfig.json
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.runtimeconfig.dev.json
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.dll
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\bin\Debug\netcoreapp3.1\Monopoly Sim 1.0.pdb
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.csprojAssemblyReference.cache
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.AssemblyInfoInputs.cache
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.AssemblyInfo.cs
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.csproj.CoreCompileInputs.cache
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.dll
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.pdb
+D:\Programming\C♯\Other\Monopoly Sim 1.0\Monopoly Sim 1.0\obj\Debug\netcoreapp3.1\Monopoly Sim 1.0.genruntimeconfig.cache
